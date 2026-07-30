@@ -222,7 +222,7 @@ B.Tech Computer Science (Data Science)
 This project is created for educational and learning purposes.
 ## 🌐 Live Demo
 
-[Open Life-OS Wellbeing Dashboard](your-streamlit-url)
+[Open Life-OS Wellbeing Dashboard](https://life-os-dashboard-bsdbhtnydyosndseprttxx.streamlit.app/)
 
 ## 📂 Source Code
 
