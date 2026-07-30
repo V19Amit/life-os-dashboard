@@ -220,3 +220,10 @@ B.Tech Computer Science (Data Science)
 ## 📜 License
 
 This project is created for educational and learning purposes.
+## 🌐 Live Demo
+
+[Open Life-OS Wellbeing Dashboard](your-streamlit-url)
+
+## 📂 Source Code
+
+[GitHub Repository](your-github-url)
