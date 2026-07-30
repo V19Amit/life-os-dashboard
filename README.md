@@ -226,4 +226,4 @@ This project is created for educational and learning purposes.
 
 ## 📂 Source Code
 
-[GitHub Repository](your-github-url)
+[GitHub Repository](https://github.com/V19Amit/life-os-dashboard)
